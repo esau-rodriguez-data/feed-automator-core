@@ -17,7 +17,6 @@ gráficos con la información actualizada — sin intervención manual.
 
 ## Resultados
 
-- Eliminó el 90% del trabajo manual del equipo de diseño
 - Tiempo de actualización: de horas a minutos por ciclo
 - Aplicado a SKUs de La Curacao y Tiendas EFE (Conecta Retail)
 
